@@ -12,6 +12,10 @@
 		<li><a href="operadoresAritmeticos.php">Operadores Aritmetica</a></li>
 		<li><a href="relacionais.php">Relacionais</a></li>
 		<li><a href="Exercicio.php">Exercicio</a></li>
+		<li><a href="formulario.php">Formularios</a></li>
+		<li><a href="exercicio/calcularNota.php">Calcular media de notas</a></li>
+		<li><a href="exercicio/calcularComisssao.php">Calcular Comissão</a></li>
+		
 	</ul>
 	
 	
